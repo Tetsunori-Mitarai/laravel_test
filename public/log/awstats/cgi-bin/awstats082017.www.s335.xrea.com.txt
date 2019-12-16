@@ -1,0 +1,521 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201708 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.s335.xrea.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2102                
+POS_TIME 2773                
+POS_VISITOR 7990                
+POS_DAY 16570               
+POS_DOMAIN 3691                
+POS_LOGIN 3986                
+POS_ROBOT 4141                
+POS_WORMS 4705                
+POS_EMAILSENDER 4836                
+POS_EMAILRECEIVER 4979                
+POS_SESSION 17403               
+POS_SIDER 17615               
+POS_FILETYPES 5114                
+POS_DOWNLOADS 5362                
+POS_OS 5410                
+POS_BROWSER 5652                
+POS_SCREENSIZE 6081                
+POS_UNKNOWNREFERER 6155                
+POS_UNKNOWNREFERERBROWSER 6299                
+POS_ORIGIN 6454                
+POS_SEREFERRALS 6594                
+POS_PAGEREFS 6747                
+POS_SEARCHWORDS 6895                
+POS_KEYWORDS 7047                
+POS_MISC 2437                
+POS_ERRORS 7106                
+POS_CLUSTER 3842                
+POS_SIDER_403 7243                
+POS_SIDER_400 7435                
+POS_SIDER_404 7517                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170901000056 1 0 6142450591369
+FirstTime 20170801005655
+LastTime 20170831234218
+LastUpdate 20170902035805 1 0 0 0 0
+TotalVisits 623                 
+TotalUnique 157                 
+MonthHostsKnown 135                 
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 50 50 118921 3235 3486 628146
+1 144 145 332343 3271 3461 603891
+2 17 17 37798 3287 3459 567271
+3 7 7 6382 3312 3388 553599
+4 13 13 8877 3417 3424 605017
+5 4 4 7565 3285 3309 560585
+6 22 22 58261 3209 3285 533011
+7 72 72 145945 3281 3516 626291
+8 90 92 234412 3297 3415 560969
+9 216 222 798442 3297 3528 628278
+10 212 215 594486 3154 3379 593214
+11 120 124 326690 3188 3499 655458
+12 55 55 135641 3210 3460 651015
+13 214 225 674561 3258 3464 631929
+14 54 56 209043 3186 3449 642106
+15 78 85 2926942 3197 3473 656265
+16 388 429 1054682 3312 3536 711982
+17 146 147 409100 3193 3457 642422
+18 203 251 428705 3189 3487 598256
+19 93 102 290853 3132 3572 639400
+20 123 130 472762 3122 3559 609156
+21 61 64 172417 3190 3506 645964
+22 34 34 102350 3162 3379 617080
+23 55 55 198700 3173 3591 657402
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+jp 2085 2194 8435698
+net 244 275 710325
+ip 83 88 202631
+com 58 58 396711
+ua 1 1 513
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Wget/ 76529 13552046 20170831235945 0
+no_user_agent 288 64747 20170831193626 0
+bingbot/ 127 111930 20170831230133 0
+favicon 22 13378 20170829132420 0
+MSIE[\x20]5 17 11849 20170831012219 0
+YandexBot/ 13 11655 20170830084251 0
+SemrushBot/ 6 32938 20170827082652 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 2091 20170813043015 0
+steeler 2 10947 20170815133342 0
+SurdotlyBot/ 1 513 20170822150933 0
+facebookexternalhit/ 1 1036 20170825094747 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 3 21061 0 0
+png 127 238142 0 0
+cgi 368 2244295 0 0
+shtm 5 638 0 0
+php 2093 7042839 0 0
+xcg 3 16507 0 0
+tif 1 270 0 0
+html 1 182 0 0
+js 8 150238 0 0
+jpg 4 30100 0 0
+gif 3 1606 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linuxandroid 9 7
+winxp 12 12
+macosx11 1 1
+macintosh 1 1
+ios_iphone 864 856
+macosx12 125 121
+win7 970 951
+winunknown 1 1
+macosx10 303 230
+win10 317 279
+Unknown 7 6
+ios_ipad 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome59.0.3071.115 148 147
+firefox55.0 255 226
+safari10.0 850 845
+firefox54.0 232 229
+chrome31.0.1650.57 1 1
+chrome59.0.3071.125 9 7
+safari10.1.1 302 229
+chrome60.0.3112.113 23 23
+msie8.0 12 12
+iphone 19 16
+msie11.0 60 53
+safari9.0 1 1
+mozilla 98 98
+netscape6.0 1 0
+msie7.0 1 1
+chrome60.0.3112.101 163 154
+icab 1 1
+msie9.0 7 7
+chrome60.0.3112.90 425 413
+edge15 1 1
+Unknown 7 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/6.0 20170825094747
+}__test|O:21:\ 20170813043020
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+}__test|O:21:\ 20170813043020
+Microsoft_Office_Excel_2014 20170804120106
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 825 825
+From1 2 2
+From2 1 1
+From3 0 0
+From4 1643 1788
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 112 24752
+302 251 0
+503 1 299
+500 2 7638
+404 4350 971738
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 2
+/jp/admin.cgi 64 http://www.s335.xrea.com/jp/admin.cgi
+/wp-login.php 48 http://www.s335.xrea.com/wp-login.php
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/apple-touch-icon-precomposed.png 44 -
+/robots.txt 1 -
+/apple-touch-icon-120x120.png 28 -
+/apple-touch-icon.png 44 -
+/apple-touch-icon-120x120-precomposed.png 28 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 158
+i125-206-10-248.s42.a047.ap.plala.or.jp 562 563 1159965 20170831082510
+ashley.asahikawa-ch.net 226 255 616814 20170826165352
+sp49-104-8-168.msf.spmode.ne.jp 170 170 463051 20170821135150
+p243009-ipngn200708fukuokachu.fukuoka.ocn.ne.jp 164 167 575548 20170821142321
+sp49-104-39-64.msf.spmode.ne.jp 120 121 294145 20170821012620
+kd121109015082.ppp-oct.au-hikari.ne.jp 120 168 234036 20170806185330
+p276146-ipngn200403yosemiya.okinawa.ocn.ne.jp 78 81 99853 20170831180724
+fl1-27-127-13-182.okn.mesh.ad.jp 76 76 416970 20170827110220
+p677147-ipngn200502yosemiya.okinawa.ocn.ne.jp 70 70 72520 20170831204926
+fl1-119-242-215-25.osk.mesh.ad.jp 60 66 143036 20170827194746
+150-70-188-169.trendmicro.com 1 1 18704 20170829100728
+kd182251249002.au-net.ne.jp 2 2 1492 20170806142144
+kd182251243040.au-net.ne.jp 4 4 10016 20170814155005
+61.206.171.2 13 16 48055 20170824112511
+fs276ecf46.tkyc517.ap.nuro.jp 8 8 8288 20170831193413
+kd182251245049.au-net.ne.jp 1 1 513 20170823221906
+118.240.8.42 3 3 17899 20170831214320
+kd182251249015.au-net.ne.jp 2 2 1492 20170814091401
+27.127.13.182 4 4 21984 20170826181732
+kd182251249014.au-net.ne.jp 2 2 1492 20170810071656
+sp49-106-205-141.msf.spmode.ne.jp 1 1 1036 20170805195047
+sp49-104-30-200.msf.spmode.ne.jp 1 1 5499 20170827235126
+183.74.192.90 1 1 5499 20170827021056
+kd182251249051.au-net.ne.jp 1 1 746 20170811172950
+kd182251249037.au-net.ne.jp 1 1 746 20170812183131
+182.251.249.49 1 1 746 20170812130703
+opt-133-123-109-44.client.pikara.ne.jp 1 1 5501 20170813072522
+203.213.186.172 2 2 10996 20170825214726
+kd182251243035.au-net.ne.jp 21 29 28864 20170815132036
+kd182250246205.au-net.ne.jp 2 2 1492 20170827002021
+kd182251249039.au-net.ne.jp 4 4 2984 20170815154230
+103.5.140.144 1 1 746 20170820171424
+fp276e053d.knge121.ap.nuro.jp 15 15 15892 20170825233531
+kd182250246241.au-net.ne.jp 1 1 746 20170817233313
+ec2-50-112-194-65.us-west-2.compute.amazonaws.com 1 1 2260 20170805104038
+sp183-74-192-90.msb.spmode.ne.jp 5 5 27480 20170826190827
+kd182251249048.au-net.ne.jp 1 1 746 20170815174943
+softbank060138185197.bbtec.net 3 5 5381 20170809212430
+s139.alpha-w2.vectant.ne.jp 17 19 2789035 20170824151809
+kd182250246198.au-net.ne.jp 1 1 746 20170827154829
+sp49-104-11-162.msf.spmode.ne.jp 1 1 1036 20170829175143
+sp49-104-14-210.msf.spmode.ne.jp 1 1 1036 20170818121148
+61-205-5-247m5.grp1.mineo.jp 2 2 10994 20170829230244
+kd182250246229.au-net.ne.jp 2 2 1492 20170822121738
+p1993008-ipbf2702souka.saitama.ocn.ne.jp 49 49 328312 20170831162821
+sp49-104-47-127.msf.spmode.ne.jp 3 3 16494 20170822202227
+kd182251249016.au-net.ne.jp 1 1 746 20170806161431
+kd182250246204.au-net.ne.jp 2 2 1492 20170826080151
+kd182250246208.au-net.ne.jp 1 1 746 20170828080809
+180.4.180.36 1 1 1036 20170812174609
+softbank126130048018.bbtec.net 2 2 11006 20170819095856
+150-70-173-44.trendmicro.com 1 1 18704 20170821105729
+kd182251243018.au-net.ne.jp 9 12 37190 20170810201634
+kd182251249018.au-net.ne.jp 3 3 2238 20170811232929
+sp49-104-12-19.msf.spmode.ne.jp 3 3 3108 20170830175808
+150-70-188-171.trendmicro.com 1 1 18704 20170810170113
+kd182251249006.au-net.ne.jp 4 4 2984 20170813151110
+p632194-ipngn200312yosemiya.okinawa.ocn.ne.jp 57 57 42522 20170830021935
+sp49-104-15-182.msf.spmode.ne.jp 1 1 1036 20170828110122
+dcbd5baac.oct-net.ne.jp 53 53 291363 20170831234218
+221x248x177x174.ap221.ftth.ucom.ne.jp 3 5 3439 20170820195848
+p1248169-ipngn7002funabasi.chiba.ocn.ne.jp 8 9 49481 20170822193006
+kd182250246242.au-net.ne.jp 1 1 746 20170822023642
+kd182251249038.au-net.ne.jp 2 2 1492 20170816074253
+sp49-104-12-126.msf.spmode.ne.jp 2 2 2072 20170817162543
+182.250.246.193 1 1 746 20170821073841
+ss1.xrea.com 45 45 225282 20170829222041
+sp49-106-205-229.msf.spmode.ne.jp 1 1 1036 20170808112841
+kd182251243033.au-net.ne.jp 9 11 72253 20170814141118
+203.104.145.28 0 1 7396 
+p046103.dynamic.ppp.asahi-net.or.jp 1 1 5497 20170829125201
+mo1-77-170-178.air.mopera.net 3 3 21546 20170821182322
+kd182251245001.au-net.ne.jp 1 2 8432 20170825094729
+fl1-61-203-123-48.okn.mesh.ad.jp 22 22 120934 20170831200520
+183.72.83.205 3 3 21411 20170809103737
+49.104.11.156 1 1 1036 20170825120210
+166.111.132.193 4 4 2052 20170815015520
+150-70-188-177.trendmicro.com 1 1 161 20170804120215
+kd182250246200.au-net.ne.jp 2 2 1492 20170827221104
+kd182250246196.au-net.ne.jp 1 1 746 20170826215325
+ec2-52-27-2-86.us-west-2.compute.amazonaws.com 1 1 18500 20170805214410
+61-205-80-242m5.grp2.mineo.jp 1 1 5497 20170830141943
+sp49-106-204-17.msf.spmode.ne.jp 1 1 1036 20170807142811
+150-70-188-175.trendmicro.com 1 1 334 20170821130128
+kd182251249001.au-net.ne.jp 3 3 2238 20170806130000
+kd182250246227.au-net.ne.jp 1 1 746 20170819201407
+softbank126072120119.bbtec.net 2 2 1492 20170822153032
+kd182250246197.au-net.ne.jp 19 22 52766 20170831070224
+sp49-106-205-133.msf.spmode.ne.jp 1 1 1036 20170831160847
+150-70-173-43.trendmicro.com 1 1 18704 20170817093945
+sp49-104-11-46.msf.spmode.ne.jp 2 2 2072 20170819182946
+150-70-188-167.trendmicro.com 1 1 18500 20170806230542
+119.242.215.25 4 4 8508 20170807091115
+61-205-101-248m5.grp5.mineo.jp 5 5 27485 20170831115355
+kd182251249046.au-net.ne.jp 1 1 746 20170815123214
+softbank126100119158.bbtec.net 2 2 10996 20170822153210
+114.158.127.129 4 5 10380 20170828191643
+kd182250246210.au-net.ne.jp 1 1 746 20170820142309
+kd182251249005.au-net.ne.jp 1 1 746 20170805133108
+sp49-104-10-166.msf.spmode.ne.jp 1 1 1036 20170804184537
+p370190-ipbfp060103oomichi.oita.ocn.ne.jp 9 9 49481 20170828155601
+kd182251249007.au-net.ne.jp 1 1 746 20170806100331
+195017171106.wi-fi.kddi.com 1 1 746 20170810124650
+p8129-ipngn9901marunouchi.tokyo.ocn.ne.jp 34 36 49055 20170831093810
+kd182251245040.au-net.ne.jp 6 9 20104 20170821155411
+182.250.246.208 1 1 746 20170825230502
+kd182251249034.au-net.ne.jp 5 5 3730 20170816222003
+kd182251249040.au-net.ne.jp 8 10 12879 20170817133928
+kd182251243016.au-net.ne.jp 1 2 637 20170816211121
+sp49-98-135-81.msd.spmode.ne.jp 1 1 746 20170814192209
+kd182250246199.au-net.ne.jp 1 1 746 20170830072601
+kd182251249012.au-net.ne.jp 4 4 2984 20170807122908
+kd182250246209.au-net.ne.jp 3 3 2238 20170827202330
+sp183-74-192-8.msb.spmode.ne.jp 7 7 38486 20170825205524
+kd182251249035.au-net.ne.jp 3 3 2238 20170817072240
+kd182250246240.au-net.ne.jp 2 2 1492 20170819163949
+kd182251243007.au-net.ne.jp 2 2 2446 20170804195526
+sp49-104-10-203.msf.spmode.ne.jp 1 1 1036 20170823120242
+kd182250246243.au-net.ne.jp 1 1 746 20170819191321
+kd182251243008.au-net.ne.jp 23 26 45617 20170804165548
+sp49-104-12-246.msf.spmode.ne.jp 2 2 2072 20170802173457
+153.181.254.147 7 7 7252 20170827225539
+sp49-104-46-48.msf.spmode.ne.jp 5 5 27485 20170821235726
+103.5.140.160 1 1 746 20170807095938
+kd182251254002.au-net.ne.jp 7 9 21503 20170802095240
+106.171.44.150 1 1 746 20170813154556
+sgd716212.sni.ne.jp 1 1 5497 20170829110559
+fl9-125-199-221-168.kng.mesh.ad.jp 10 10 16918 20170825180600
+p15181-ipbffx02souka.saitama.ocn.ne.jp 6 6 43109 20170829100538
+sp49-104-11-224.msf.spmode.ne.jp 3 3 3108 20170811005800
+fl1-218-227-236-198.okn.mesh.ad.jp 16 16 87204 20170805200251
+kd182251249013.au-net.ne.jp 2 2 1492 20170803092439
+sp49-104-14-63.msf.spmode.ne.jp 1 1 1036 20170820150945
+kd182250246206.au-net.ne.jp 6 6 4476 20170830203541
+kd182251243004.au-net.ne.jp 10 11 15773 20170816124101
+p1277035-ipngn200207osakachuo.osaka.ocn.ne.jp 4 5 9418 20170830101752
+kd182251249045.au-net.ne.jp 1 1 746 20170817121854
+kd182251243019.au-net.ne.jp 23 27 189937 20170802201501
+150-70-173-49.trendmicro.com 1 1 18704 20170822190040
+p1563204-ipngn200605fukuokachu.fukuoka.ocn.ne.jp 1 1 1295 20170826060321
+203.189.105.202 3 3 15330 20170803173930
+mo183-72-123-152.air.mopera.net 3 3 21553 20170830105901
+36-2-152-245.tokyo.ap.gmo-isp.jp 24 24 24864 20170829194358
+kd182250246195.au-net.ne.jp 3 3 2238 20170827144652
+180.4.41.194 14 14 10444 20170812204418
+p107187-ipngn200201toyamahon.toyama.ocn.ne.jp 2 3 9172 20170805103927
+69.197.139.130 12 12 8364 20170813043021
+kd182250246232.au-net.ne.jp 1 1 746 20170819015702
+37.59.184.183 1 1 513 20170822043502
+sp49-104-10-222.msf.spmode.ne.jp 1 1 1036 20170826152148
+h163-058-146-019.catv02.itscom.jp 29 29 198443 20170810093923
+mo49-109-246-115.air.mopera.net 3 3 21537 20170830144107
+150-70-188-172.trendmicro.com 1 1 18704 20170824101908
+kd182251249036.au-net.ne.jp 2 3 8888 20170806165532
+150-70-173-40.trendmicro.com 1 1 18704 20170818094627
+178-165-88-182-kh.maxnet.ua 1 1 513 20170808010555
+p651036-ipngn200410yosemiya.okinawa.ocn.ne.jp 1 1 1036 20170813134554
+fp76f0082a.chbd106.ap.nuro.jp 19 23 52310 20170830162704
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170801 71 71 153508 23
+20170802 63 69 281145 19
+20170803 27 27 60583 17
+20170804 78 81 184830 23
+20170805 31 33 124450 22
+20170806 151 202 319507 18
+20170807 31 31 75826 19
+20170808 33 33 76567 19
+20170809 82 86 246783 20
+20170810 90 96 377930 21
+20170811 40 40 71945 16
+20170812 17 17 26559 14
+20170813 37 37 55296 17
+20170814 106 108 290844 17
+20170815 68 76 146067 18
+20170816 61 63 143283 17
+20170817 58 58 139986 19
+20170818 20 20 94602 12
+20170819 22 23 51882 16
+20170820 60 62 133786 24
+20170821 582 592 1648985 28
+20170822 58 59 214763 30
+20170823 48 50 140403 21
+20170824 74 79 2964895 22
+20170825 94 99 236154 30
+20170826 253 282 693441 20
+20170827 25 27 56305 17
+20170828 23 24 104879 16
+20170829 65 65 249469 22
+20170830 59 62 203718 26
+20170831 44 44 177487 20
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 22
+5mn-15mn 15
+0s-30s 518
+30s-2mn 11
+2mn-5mn 6
+15mn-30mn 19
+30mn-1h 32
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/mail/src/right_main.php 584 2145506 3 32
+/mail/src/webmail.php 461 255543 262 227
+/mail/src/left_main.php 435 520262 7 37
+/jp/admin.cgi 368 2244295 197 193
+/mailr/ 224 328043 1 1
+/mail/src/login.php 191 199100 141 115
+/mail/src/read_body.php 127 466762 0 4
+/ 19 11955 6 6
+/mail/src/compose.php 16 65937 0 0
+/mail/src/signout.php 11 5027 0 3
+/mail/src/options.php 9 25905 0 0
+/mail/src/search.php 2 4145 0 0
+/mail/src/redirect.php 1 740 0 1
+/mailr/skins/larry/watermark.html 1 182 0 0
+/mailr/program/resources/blank.tif 1 270 0 0
+/mail/src/download.php 9 3010177 0 0
+/mail/src/view_header.php 1 1725 0 0
+/jp/admin.shtm 5 638 3 1
+/mail/plugins/mini/mini.php 2 988 0 0
+/mail/src/move_messages.php 1 1024 0 0
+/jp/admin.xcg 3 16507 3 3
+END_SIDER

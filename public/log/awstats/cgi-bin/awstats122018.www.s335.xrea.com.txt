@@ -1,0 +1,478 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201812 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.s335.xrea.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2102                
+POS_TIME 2773                
+POS_VISITOR 7810                
+POS_DAY 15001               
+POS_DOMAIN 3668                
+POS_LOGIN 3984                
+POS_ROBOT 4139                
+POS_WORMS 4712                
+POS_EMAILSENDER 4843                
+POS_EMAILRECEIVER 4986                
+POS_SESSION 15814               
+POS_SIDER 16024               
+POS_FILETYPES 5121                
+POS_DOWNLOADS 5272                
+POS_OS 5320                
+POS_BROWSER 5522                
+POS_SCREENSIZE 5882                
+POS_UNKNOWNREFERER 5956                
+POS_UNKNOWNREFERERBROWSER 6060                
+POS_ORIGIN 6201                
+POS_SEREFERRALS 6341                
+POS_PAGEREFS 6485                
+POS_SEARCHWORDS 6691                
+POS_KEYWORDS 6843                
+POS_MISC 2437                
+POS_ERRORS 6902                
+POS_CLUSTER 3840                
+POS_SIDER_403 7047                
+POS_SIDER_400 7175                
+POS_SIDER_404 7257                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190101000026 1 0 7980344532580
+FirstTime 20181201002653
+LastTime 20181231231011
+LastUpdate 20190102042657 1 0 0 0 0
+TotalVisits 579                 
+TotalUnique 128                 
+MonthHostsKnown 123                 
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 37 37 100328 2855 3120 303434
+1 31 31 62027 2816 3069 250560
+2 12 12 25815 2770 2879 206082
+3 28 32 58318 2793 2869 206240
+4 4 4 13066 2793 2830 208972
+5 4 4 17528 2793 2826 201588
+6 6 6 32983 2761 2788 189331
+7 5 5 26975 2782 2784 168021
+8 90 90 222717 2784 2857 183903
+9 85 95 214596 2800 2911 211731
+10 34 36 73654 2823 2950 263832
+11 60 60 3064219 2799 2965 269334
+12 69 69 174157 2873 3186 407178
+13 70 71 150147 2855 3189 364419
+14 48 48 111350 2856 3033 293827
+15 65 65 124304 2864 3160 422868
+16 57 57 132442 2825 3006 344122
+17 61 63 151828 2799 3005 292784
+18 105 106 358121 2811 3080 327479
+19 71 77 276510 2790 3169 358420
+20 37 37 104712 2830 3014 308033
+21 47 47 131930 2888 3190 413173
+22 44 44 98530 2750 3072 289140
+23 55 56 147001 2890 3438 354006
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+jp 621 647 1477683
+net 331 331 3543737
+com 160 160 843213
+ip 8 9 5140
+de 2 2 1394
+ru 2 2 1394
+eu 1 1 697
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Wget/ 67018 5716459 20181231235947 0
+no_user_agent 148 9260 20181231153237 0
+MSIE[\x20]5 94 65518 20181231071855 0
+YandexBot/ 51 26163 20181228190347 0
+Googlebot/ 20 70068 20181231180147 0
+bingbot/ 12 18000 20181231154128 0
+favicon 5 3088 20181228181624 0
+bot[\s_+:,\.\;\/\\-] 5 3485 20181212012120 0
+libwww\-perl 2 34208 20181228165736 0
+SurdotlyBot/ 2 1026 20181225122635 0
+steeler 1 5495 20181209060058 0
+netcraft 1 697 20181205170517 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 821 4071301 0 0
+xcg 1 5503 0 0
+png 26 121131 0 0
+xml 1 145 0 0
+cgi 303 1675178 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+winxp 2 2
+ios_iphone 532 530
+macosx12 42 42
+win7 22 20
+macosx 67 67
+winunknown 6 6
+macosx9 6 5
+win10 464 442
+Unknown 1 1
+ios_ipad 10 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+safari11.0 105 105
+opera53.0.2907.99 1 1
+safari12.0 438 436
+chrome71.0.3578.98 189 181
+chrome36.0.1985.125 6 5
+firefox63.0 9 9
+msie11.0 49 33
+opera54.0.2952.54 1 1
+firefox64.0 19 19
+mozilla 106 106
+msie7.0 5 5
+chrome71.0.3578.80 90 90
+opera36.0.2130.32 1 1
+chrome70.0.3538.110 124 124
+msie9.0 2 2
+Unknown 7 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+\ 20181228175054
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+\ 20181228175054
+Microsoft_Office_Word_2014 20181219094827
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 743 744
+From1 0 0
+From2 0 0
+From3 31 31
+From4 351 377
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://ss1.xrea.com/www.s335.xrea.com/jp/admin.cgi 31 31
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 13 2861
+302 35 0
+503 5 1495
+500 2 6960
+404 3864 873216
+301 2 478
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 3
+/index.cgi 2 -
+/jp/admin.cgi 10 -
+/admin/ 1 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/apple-touch-icon-152x152.png 2 -
+/apple-touch-icon-precomposed.png 42 -
+/robots.txt 4 -
+/apple-touch-icon-120x120.png 16 -
+/apple-touch-icon.png 42 -
+/apple-touch-icon-120x120-precomposed.png 16 -
+/apple-touch-icon-152x152-precomposed.png 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 128
+ss1.xrea.com 160 160 843213 20181231201251
+mo27-229-252-2.air.mopera.net 146 146 214354 20181207190942
+flh2-133-204-84-224.osk.mesh.ad.jp 78 78 428756 20181230211947
+mo160-249-186-216.air.mopera.net 70 70 3044950 20181225143927
+mo27-228-39-69.air.mopera.net 60 60 88283 20181203210441
+36-2-209-244.tokyo.ap.gmo-isp.jp 48 48 49728 20181231115814
+fs276ecf46.tkyc517.ap.nuro.jp 40 40 41440 20181228120018
+124-140-84-72.rev.home.ne.jp 39 39 85012 20181230152012
+p218001-ipngn200305yosemiya.okinawa.ocn.ne.jp 34 34 35224 20181231224945
+p8129-ipngn9901marunouchi.tokyo.ocn.ne.jp 33 49 142954 20181228094318
+209.125.148.210.rev.vmobile.jp 1 1 1036 20181223201933
+host-95-152-62-254.dsl.sura.ru 1 1 697 20181216143357
+120-51-71-138.tokyo.ap.gmo-isp.jp 5 5 5180 20181231201626
+110.65.239.49.rev.vmobile.jp 2 2 2072 20181229225432
+sp49-98-158-140.msd.spmode.ne.jp 1 1 746 20181217150739
+122-222-141-18.tokyo.ap.gmo-isp.jp 2 2 2072 20181202124154
+softbank060099246137.bbtec.net 8 8 43975 20181231231011
+119.205.49.163.rev.vmobile.jp 1 1 1036 20181206155539
+sp49-104-14-47.msf.spmode.ne.jp 2 2 2072 20181222234931
+pw126033223195.23.panda-world.ne.jp 2 2 2072 20181217140240
+mo1-72-33-140.air.mopera.net 3 3 21587 20181221083249
+218.19.145.20 1 1 697 20181210210449
+sp49-104-32-53.msf.spmode.ne.jp 1 1 1036 20181215185744
+pw126033006092.23.panda-world.ne.jp 2 2 2072 20181222021647
+mo219-114-170-161.air.mopera.net 3 3 21598 20181218180525
+pw126033012200.23.panda-world.ne.jp 2 2 6532 20181222234503
+2.64.239.49.rev.vmobile.jp 1 1 1036 20181212194144
+pw126033038070.23.panda-world.ne.jp 1 1 1036 20181224114501
+sp49-104-10-38.msf.spmode.ne.jp 2 2 2072 20181208214116
+kd182251251016.au-net.ne.jp 8 8 8288 20181226224758
+fp276e053d.knge121.ap.nuro.jp 17 17 12682 20181226121525
+fs276ed477.tkyc517.ap.nuro.jp 5 5 5180 20181228231339
+163.66.239.49.rev.vmobile.jp 7 7 7252 20181230223832
+pw126033033176.23.panda-world.ne.jp 3 3 3108 20181223224528
+69.125.148.210.rev.vmobile.jp 2 2 2072 20181201215121
+sp1-72-3-227.msc.spmode.ne.jp 3 3 3108 20181226174504
+kd182251251013.au-net.ne.jp 12 12 12432 20181209165214
+sp49-104-7-188.msf.spmode.ne.jp 1 1 1036 20181211132406
+142.68.239.49.rev.vmobile.jp 2 2 2072 20181218211407
+kd182251251008.au-net.ne.jp 2 2 2072 20181204232553
+pw126233217005.20.panda-world.ne.jp 2 2 6533 20181228232700
+pw126233222042.20.panda-world.ne.jp 2 2 10996 20181226170759
+200.215.49.163.rev.vmobile.jp 1 1 1036 20181203231647
+146.125.148.210.rev.vmobile.jp 1 1 1036 20181214144702
+sp49-104-20-225.msf.spmode.ne.jp 1 1 1036 20181205211624
+p6479161-ipngn28701marunouchi.tokyo.ocn.ne.jp 1 1 1036 20181214225131
+78.179.138.210.rev.vmobile.jp 2 2 2072 20181219194824
+26.231.214.202.rev.vmobile.jp 1 1 1036 20181201141242
+241.65.239.49.rev.vmobile.jp 1 1 1036 20181203172654
+mo160-249-224-154.air.mopera.net 4 4 5539 20181213082134
+81.6.138.210.rev.vmobile.jp 1 1 1036 20181229003521
+kd182251251012.au-net.ne.jp 4 4 4144 20181228182435
+pw126199156151.18.panda-world.ne.jp 1 1 5498 20181226081135
+softbank126021232021.bbtec.net 1 1 1036 20181229012307
+watv219100080148.watv.ne.jp 17 21 24618 20181223030631
+218.33.167.69.eo.eaccess.ne.jp 2 2 2072 20181229212228
+pw126247142144.14.panda-world.ne.jp 3 3 7569 20181215025737
+170.210.49.163.rev.vmobile.jp 2 2 2072 20181222190517
+sp49-104-36-227.msf.spmode.ne.jp 2 2 2072 20181201013341
+kd182251251004.au-net.ne.jp 4 4 4144 20181201151815
+239.125.148.210.rev.vmobile.jp 2 2 2072 20181209144031
+fl1-111-168-153-38.okn.mesh.ad.jp 9 9 12155 20181218161103
+kd182251251015.au-net.ne.jp 6 6 6216 20181219225535
+194.71.239.49.rev.vmobile.jp 1 1 1036 20181211195131
+ip-54-39-182.eu 1 1 697 20181209121849
+pw126233207089.20.panda-world.ne.jp 2 2 6532 20181227152546
+193.200.49.163.rev.vmobile.jp 1 1 1036 20181222120141
+kd182251251019.au-net.ne.jp 10 10 10360 20181218201103
+p698033-ipngnfx01yosemiya.okinawa.ocn.ne.jp 3 3 3108 20181229125352
+125.64.94.206 3 4 1684 20181211232336
+pw126233196157.20.panda-world.ne.jp 5 5 9641 20181231022608
+179.177.138.210.rev.vmobile.jp 1 1 1036 20181220211624
+125.64.94.208 2 2 1026 20181211232114
+sp49-97-104-146.msc.spmode.ne.jp 2 2 1492 20181225224827
+pw126247021220.14.panda-world.ne.jp 4 4 8605 20181205180653
+p2094062-ipbf1201souka.saitama.ocn.ne.jp 9 9 64780 20181225235437
+81.205.49.163.rev.vmobile.jp 1 1 1036 20181217085333
+181.230.214.202.rev.vmobile.jp 2 2 2072 20181214112141
+mo1-77-96-200.air.mopera.net 20 20 24390 20181226115818
+222.186.190.176 1 1 697 20181208135154
+static.155.107.4.46.clients.your-server.de 2 2 1394 20181224215116
+mo183-72-85-247.air.mopera.net 3 3 21588 20181228113028
+pw126033202110.23.panda-world.ne.jp 1 1 1036 20181231191851
+44.66.239.49.rev.vmobile.jp 3 3 3108 20181207213040
+om126229088058.12.openmobile.ne.jp 1 1 1036 20181214165923
+162.205.49.163.rev.vmobile.jp 5 5 5180 20181216184109
+mo1-72-100-138.air.mopera.net 3 3 21589 20181219160441
+209.6.138.210.rev.vmobile.jp 4 4 4144 20181216123235
+kd182251251007.au-net.ne.jp 4 4 4144 20181230194202
+93.6.138.210.rev.vmobile.jp 1 1 1036 20181203195059
+kd182251251005.au-net.ne.jp 2 2 2072 20181228015545
+158.235.69.115.shared.user.transix.jp 1 1 5498 20181226062158
+kd182251251002.au-net.ne.jp 1 1 513 20181221004925
+kd182251251033.au-net.ne.jp 2 2 2072 20181211133937
+mo27-231-68-1.air.mopera.net 5 5 6721 20181217084538
+kd182251251017.au-net.ne.jp 4 4 4144 20181207194824
+kd182250246243.au-net.ne.jp 5 7 130711 20181218190248
+1.72.3.227 1 1 1036 20181222091147
+148.253.149.210.rev.vmobile.jp 2 2 2072 20181211153905
+sp49-98-151-48.msd.spmode.ne.jp 2 2 2072 20181207130400
+sp49-97-107-149.msc.spmode.ne.jp 2 2 1492 20181215155808
+p15181-ipbffx02souka.saitama.ocn.ne.jp 3 3 21598 20181205122207
+fp76f0d2d9.tkyc005.ap.nuro.jp 1 1 1036 20181212202202
+sp49-104-4-10.msf.spmode.ne.jp 1 1 1036 20181207221235
+65.214.49.163.rev.vmobile.jp 2 2 2072 20181205204645
+kd182251243019.au-net.ne.jp 4 4 4144 20181225030017
+15.230.214.202.rev.vmobile.jp 2 2 2072 20181223185309
+pw126035004191.25.panda-world.ne.jp 1 1 5497 20181204000954
+softbank126021232134.bbtec.net 1 1 1036 20181216142308
+115-179-89-120.tokyo.ap.gmo-isp.jp 29 29 30044 20181209101338
+191.251.149.210.rev.vmobile.jp 2 2 2072 20181222001107
+p1480109-ipngn2202akatuka.ibaraki.ocn.ne.jp 2 2 6533 20181223134559
+sp49-98-148-188.msd.spmode.ne.jp 2 2 1492 20181218193423
+220.178.138.210.rev.vmobile.jp 2 2 2072 20181227112219
+h163-058-135-114.catv02.itscom.jp 9 11 51163 20181225180114
+pw126247140041.14.panda-world.ne.jp 3 3 12030 20181212145802
+mo1-66-134-30.air.mopera.net 3 3 21588 20181220145257
+133.125.214.202.rev.vmobile.jp 2 2 2072 20181203130506
+host-95-152-44-66.dsl.sura.ru 1 1 697 20181223165943
+sp49-104-18-224.msf.spmode.ne.jp 2 2 2072 20181221204632
+sp49-97-104-204.msc.spmode.ne.jp 1 1 746 20181228153310
+kd182251251003.au-net.ne.jp 8 8 8288 20181229161526
+209.251.149.210.rev.vmobile.jp 1 1 1036 20181204121253
+softbank126087043042.bbtec.net 1 1 5503 20181201191647
+kd182251251006.au-net.ne.jp 6 6 6216 20181217182059
+243.69.239.49.rev.vmobile.jp 2 2 2072 20181224204655
+fl1-218-227-97-228.kyt.mesh.ad.jp 16 18 16983 20181220093606
+fp76f0082a.chbd106.ap.nuro.jp 15 15 42302 20181228175455
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20181201 40 41 90456 20
+20181202 14 14 50192 8
+20181203 80 80 175335 24
+20181204 66 68 172020 26
+20181205 54 54 138949 23
+20181206 13 13 26051 12
+20181207 108 109 181436 20
+20181208 23 24 39227 17
+20181209 20 20 41656 16
+20181210 19 21 45846 14
+20181211 33 35 69866 22
+20181212 20 20 48610 17
+20181213 19 20 40479 13
+20181214 18 18 53669 15
+20181215 18 19 69784 15
+20181216 17 17 16403 14
+20181217 33 35 92148 24
+20181218 70 72 365509 22
+20181219 38 38 139051 18
+20181220 39 41 112023 19
+20181221 28 29 88308 21
+20181222 52 54 117346 22
+20181223 38 40 96997 21
+20181224 45 46 3030700 22
+20181225 52 55 157188 18
+20181226 45 45 89647 22
+20181227 22 23 60096 17
+20181228 24 24 55635 16
+20181229 32 32 95606 22
+20181230 26 26 62624 23
+20181231 19 19 50401 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 12
+5mn-15mn 10
+0s-30s 530
+15mn-30mn 10
+30s-2mn 6
+2mn-5mn 3
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/mail/src/login.php 412 426832 326 308
+/jp/admin.cgi 303 1675178 189 189
+/mail/src/left_main.php 229 273264 0 13
+/mail/src/webmail.php 91 51386 53 49
+/mail/src/right_main.php 46 167738 0 7
+/mail/src/read_body.php 17 67322 0 0
+/ 13 7957 10 10
+/mail/src/compose.php 5 18174 0 0
+/mail/src/download.php 3 3055092 0 1
+/mail/plugins/notify/notify.php 1 372 0 0
+/mail/src/signout.php 1 457 0 1
+/mail/src/image.php 1 1242 0 0
+/jp/admin.xcg 1 5503 1 1
+/mail/src/folders.php 1 1357 0 0
+/mail/plugins/notify/focus.php 1 108 0 0
+END_SIDER

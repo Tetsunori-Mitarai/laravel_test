@@ -1,0 +1,1 @@
+<div class="pt">{$procTime}ms</div>

@@ -1,0 +1,276 @@
+body{
+	background-color: #ffffff;
+	text-align: center;
+}
+
+A:link{
+	color: orange;
+	text-decoration: underline;
+}
+A:visited{
+	color: orange;
+	text-decoration: underline;
+}
+A:active{	/* クリックされた時の色を定義 */
+	color: yellow;
+	text-decoration: underline;
+}
+A:hover{	/* マウスカーソルが乗った時の色を定義 */
+	color: yellow;
+	text-decoration: underline;
+}
+
+.font_green{
+	color: #00ff00;
+}
+
+.font_red{
+	color: #ff0000;
+}
+
+.font_blue{
+	color: #0000ff;
+}
+
+.font_yellow{
+	color: #ffff00;
+}
+
+.master{
+	text-align: left;
+	margin: 0 auto;
+	width: 60%; 
+}
+
+.img_banners{
+	border:0;
+	width:80px;
+	height:15px;
+	text-align: center;
+}
+
+.line{
+	clear: both;
+	border: #555555 thin solid;
+	height: 0px;
+}
+
+.INDEX{
+	text-align: center;
+	font-size: large;
+	color: #cccccc;
+	font-weight: bold;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+#menu_internal {}
+#menu_internal ul{
+	list-style-type: none;
+	list-style-image: none;
+}
+#menu_internal li{
+	color: #cccccc;
+	display: inline;
+	text-align: left;
+	font-size: medium;
+	padding: 0px 2px 0px 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#menu_internal a{}
+#menu_internal a:hover{}
+
+#MAIN_MENU {}
+#MAIN_MENU ul{
+	list-style-type: none;
+	list-style-image: none;
+}
+#MAIN_MENU li{
+	color: #cccccc;
+	display: inline;
+	text-align: left;
+	font-size: medium;
+	padding: 0px 2px 0px 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#MAIN_MENU a{}
+#MAIN_MENU a:hover{}
+
+.affiliate{
+	text-align: center;
+	display: block;
+	font-size: large;
+	color: #cccccc;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.copyright_notice{
+	text-align: left;
+	font-size: medium;
+	color: #cccccc;
+	font-weight: bold;
+	padding: 3px;
+	margin-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.copyright{
+	color: #555555;
+	font-size: small;
+	font-weight: normal;
+	margin-left: 22px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 3px;
+	text-align: left;
+}
+
+.INPUT_TEXT{
+	border: 1px #bbbbbb solid;
+	font-size: medium;
+	color: #cccccc;
+	background-color: #000025;
+	padding: 1px;
+	width: 200px;
+	height: 1.2em;
+}
+
+.INPUT_API{
+	border: 1px #bbbbbb solid;
+	font-size: 9pt;
+	color: #cccccc;
+	background-color: #000025;
+	padding: 1px;
+	width: 400px;
+	height: 1.2em;
+}
+
+.INPUT_SELECT{
+	border: 1px #bbbbbb solid;
+	font-size: 9pt;
+	color: #cccccc;
+	background-color: #000025;
+	padding: 1px;
+	width: 200px;
+	height: 1.2em;
+}
+
+.INPUT_BIO{
+	border: 1px #bbbbbb solid;
+	font-size: 9pt;
+	color: #cccccc;
+	background-color: #000025;
+	padding: 2px;
+	width: 400px;
+	height: 8em;
+	/*scrollbar-face-color: #dcdcff;
+	scrollbar-track-color: #000025;
+	scrollbar-arrow-color: #000000;
+	scrollbar-highlight-color: #cccccc;
+	scrollbar-shadow-color: #cccccc;
+	scrollbar-3dlight-color: #cccccc;
+	scrollbar-darkshadow-color: #cccccc;*/
+}
+
+.INPUT_BUTTON{
+	border: 1px #bbbbbb solid;
+	font-size: 7pt;
+	color: #000000;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #dcdcff;
+	padding: 1px;
+	width: 64px;
+	height: 1.8em;
+}
+
+.pt{
+	font-size: x-small;
+	color: #cccccc;
+	text-align: right;
+}
+
+.table_standard{
+	border:#bbbbbb thin solid;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+.table_standard tr{
+	border: #bbbbbb thin solid;
+	text-align: left;
+}
+.table_standard td{
+	border: #bbbbbb thin solid;
+	text-align: left;
+}
+
+.text_chapter{
+	font-size: x-large;
+	font-weight: bold;
+	color: #555555;
+	padding: 1px 1px 1px 20px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.text_section{
+	font-size: large;
+	font-weight: bold;
+	color: #555555;
+	padding: 1px 1px 1px 40px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.text_subsection{
+	font-size: medium;
+	font-weight: bold;
+	color: #555555;
+	padding: 1px 1px 1px 55px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.text_default{
+	font-size: medium;
+	color: #555555;
+	padding: 1px 1px 15px 60px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.text_table{
+	color: #555555;
+	font-size: medium;
+	font-weight: normal;
+	padding: 3px;
+	text-align: left;
+}
+
+.text_align_right{
+	color: #555555;
+	font-size: medium;
+	font-weight: normal;
+	padding: 3px;
+	text-align: right;
+}
+
+#MENU_SIDE{
+	float: left;
+	width: 25%;
+}
+
+#CONTENTS{
+	float: left;
+	width: 75%;
+}
