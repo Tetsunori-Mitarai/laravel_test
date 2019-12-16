@@ -14,12 +14,14 @@
         </script>
     </head>
     <body oncontextmenu="return false;">
-        <div id="app">
-            <!-- ここにvue.jsのコンポーネントが表示されたり -->
-            <test></test>
-        </div>
-        <div>
-            from <a href="https://qiita.com/t_mitarai/private/4b5ccb2cc10dfb04ed7f">Laravel + Vue.js + Three.js でポリゴンを表示してみよう</a>
+        <div id="container">
+            <div id="app">
+                <!-- ここにvue.jsのコンポーネントが表示されたり -->
+                <test></test>
+            </div>
+            <div id="footer">
+                from <a href="https://qiita.com/t_mitarai/private/4b5ccb2cc10dfb04ed7f">Laravel + Vue.js + Three.js でポリゴンを表示してみよう</a>
+            </div>
         </div>
     </body>
     <!--コンパイルしたjsの読み込み-->
